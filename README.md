@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag kumar</h1>
+
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbcet&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbcet" /> </p>
@@ -13,11 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuragbcet](https://github.com/anuragbcet)
 
-- 📝 I regularly write articles on [https://github.com/anuragbcet](https://github.com/anuragbcet)
-
 - 💬 Ask me about **Web development ,New technologies ,and tech in stock market.**
 
-- 📫 How to reach me **anuragbcet2023@gmail.com**
+- 📫 Reach out me at **anuragbcet2023@gmail.com**
 
 - ⚡ Fun fact **I think i will be a startup founder .**
 
