@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbcet&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbcet" /> </p>
 
-- 🔭 I’m currently building **personal wealth management system**
+- 🔭 I’m currently building **personal wealth management system.**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **react.js.**
 
 - 👯 I’m looking to collaborate on **my current project.**
 
