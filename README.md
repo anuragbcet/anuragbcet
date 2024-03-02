@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/anurag-kumar-43a360211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-kumar-43a360211/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-kumar-43a360211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-kumar-43a360211/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22616425/anurag-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22616425/anurag-kumar" height="30" width="40" /></a>
 <a href="www.hackerrank.com/profile/anuragbcet2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anuragbcet2023" height="30" width="40" /></a>
 <a href="https://leetcode.com/anuragbcet2023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anuragbcet2023/" height="30" width="40" /></a>
