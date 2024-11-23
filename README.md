@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **my current project.**
 
-- 🤝 I’m looking for help with **Ai development.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anuragbcet](https://github.com/anuragbcet)
 
 - 💬 Ask me about **Web development ,New technologies ,and tech in stock market.**
